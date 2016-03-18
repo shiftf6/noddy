@@ -3,7 +3,7 @@ Command line tool for generating iOS app icon sets.
 
 # How to use it...
 
-You'll need node.js installed.
+You'll need node.js installed and ImageMagick.
 
 Checkout the above repo.
 
