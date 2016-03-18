@@ -1,0 +1,10 @@
+mobflicstudio.iml
+.idea
+
+.DS_STORE
+*.log
+
+node_modules
+
+dist
+coverage
